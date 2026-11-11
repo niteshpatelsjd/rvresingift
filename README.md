@@ -20,7 +20,7 @@ Render documentation: https://render.com/docs/static-sites . Static hosting is f
 
 ## Before launch
 
-- Replace original concept SVG artwork in `public/assets` with actual business product photos; update image paths, alt text and illustration notices in `public/index.html` and `public/app.js`.
+- Supplied logo, brand card and six portfolio images are in `public/assets`. Varmala preservation still uses a labeled concept illustration; replace it when a matching photograph is available.
 - Verify the supplied Instagram handle. Set the business WhatsApp number in `public/config.js` (country code, digits only) to switch enquiry messages to WhatsApp.
 - Confirm product availability, delivery terms and business copy. No made-up prices or customer reviews are included.
 - Enquiry bag stores product IDs in the visitor's browser. The custom form prepares a message locally; it does not submit orders. The visitor reviews and sends through Instagram or WhatsApp. There is no online payment processing.
@@ -28,4 +28,4 @@ Render documentation: https://render.com/docs/static-sites . Static hosting is f
 
 ## Edit
 
-`public/index.html`: page copy and sections. `public/styles.css`: appearance and responsive layout. `public/app.js`: catalogue and enquiry behavior. `public/config.js`: contact channel. Artwork is original vector concept imagery.
+`public/index.html`: page copy and sections. `public/styles.css`: appearance and responsive layout. `public/app.js`: catalogue and enquiry behavior. `public/config.js`: contact channel. Portfolio images and branding are supplied by RV Resin Gifts. Remaining SVG artwork is original concept imagery.
