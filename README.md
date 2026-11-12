@@ -20,7 +20,7 @@ Render documentation: https://render.com/docs/static-sites . Static hosting is f
 
 ## Before launch
 
-- Supplied logo, brand card and six portfolio images are in `public/assets`. Varmala preservation still uses a labeled concept illustration; replace it when a matching photograph is available.
+- Supplied branding and portfolio photographs are in `public/assets`, including two Varmala preservation designs shown in product details and the gallery.
 - Verify the supplied Instagram handle. Set the business WhatsApp number in `public/config.js` (country code, digits only) to switch enquiry messages to WhatsApp.
 - Confirm product availability, delivery terms and business copy. No made-up prices or customer reviews are included.
 - Enquiry bag stores product IDs in the visitor's browser. The custom form prepares a message locally; it does not submit orders. The visitor reviews and sends through Instagram or WhatsApp. There is no online payment processing.
